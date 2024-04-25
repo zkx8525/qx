@@ -47,6 +47,12 @@ vmess = 154.197.92.99:18525, method = chacha20-ietf-poly1305, password = db82827
 vmess = 149.104.35.5:18525, method = chacha20-ietf-poly1305, password = db82827c-0cad-48a9-94a4-61c74832b92a, aead = true, tls13 = false, obfs = ws, obfs-host = hk-hy.changding.tech, obfs-uri = /changding, fast-open = true, udp-relay=true, tag = 负载08
 vmess = 149.104.35.6:18525, method = chacha20-ietf-poly1305, password = db82827c-0cad-48a9-94a4-61c74832b92a, aead = true, tls13 = false, obfs = ws, obfs-host = hk-hy.changding.tech, obfs-uri = /changding, fast-open = true, udp-relay=true, tag = 负载09
 vmess = 154.197.92.100:18525, method = chacha20-ietf-poly1305, password = db82827c-0cad-48a9-94a4-61c74832b92a, aead = true, tls13 = false, obfs = ws, obfs-host = hk-hy.changding.tech, obfs-uri = /changding, fast-open = true, udp-relay=true, tag = 负载10
+vmess = 149.104.33.130:18525, method = chacha20-ietf-poly1305, password = db82827c-0cad-48a9-94a4-61c74832b92a, aead = true, tls13 = false, obfs = ws, obfs-host = hk-hy.changding.tech, obfs-uri = /changding, fast-open = true, udp-relay=true, tag = 负载11
+vmess = 149.104.33.131:18525, method = chacha20-ietf-poly1305, password = db82827c-0cad-48a9-94a4-61c74832b92a, aead = true, tls13 = false, obfs = ws, obfs-host = hk-hy.changding.tech, obfs-uri = /changding, fast-open = true, udp-relay=true, tag = 负载12
+vmess = 149.104.33.133:18525, method = chacha20-ietf-poly1305, password = db82827c-0cad-48a9-94a4-61c74832b92a, aead = true, tls13 = false, obfs = ws, obfs-host = hk-hy.changding.tech, obfs-uri = /changding, fast-open = true, udp-relay=true, tag = 负载13
+vmess = 149.104.33.133:18525, method = chacha20-ietf-poly1305, password = db82827c-0cad-48a9-94a4-61c74832b92a, aead = true, tls13 = false, obfs = ws, obfs-host = hk-hy.changding.tech, obfs-uri = /changding, fast-open = true, udp-relay=true, tag = 负载14
+vmess = 149.104.33.134:18525, method = chacha20-ietf-poly1305, password = db82827c-0cad-48a9-94a4-61c74832b92a, aead = true, tls13 = false, obfs = ws, obfs-host = hk-hy.changding.tech, obfs-uri = /changding, fast-open = true, udp-relay=true, tag = 负载15
+
 
 [filter_local]
 # 本地/局域网地址
